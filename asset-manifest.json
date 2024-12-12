@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/date-proposal/static/css/main.8cda049e.css",
+    "main.js": "/date-proposal/static/js/main.e82f1cb8.js",
+    "static/media/dinank.jpg": "/date-proposal/static/media/dinank.a4e19cd7e68e24dddbd7.jpg",
+    "index.html": "/date-proposal/index.html",
+    "main.8cda049e.css.map": "/date-proposal/static/css/main.8cda049e.css.map",
+    "main.e82f1cb8.js.map": "/date-proposal/static/js/main.e82f1cb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cda049e.css",
+    "static/js/main.e82f1cb8.js"
+  ]
+}
